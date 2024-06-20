@@ -1,7 +1,7 @@
 # Getscreen-rdp-files
 ![.](info.png)
 
-# Read This Before Rushing To Actions Tab In Github ðŸ’€
+# Read This Before Rushing To Actions Tab In Github 💀
 
 * i'm **not responsible** for **suspended github accounts**
 * **Don't try these in your personal github account** or don't make emails same as your personal github email to make fake github account.
@@ -56,5 +56,5 @@ VM features:
 
 # [Watch Tutorial If You Dosen't Understand This.](https://youtu.be/VdpiASPO1O4)
 
-### Brought To You By Disala ðŸ’€ , Its Functional ðŸ˜—.
+### Brought To You By Kifayat 💀, Its Functional 😉.
 ### You Can See ID , Username , Pass , Pc Name And Cool Ascki Art 
