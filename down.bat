@@ -3,7 +3,6 @@ certutil -urlcache -split -f "https://getscreen.me/download/getscreen.exe" getsc
 pip install pyautogui --quiet
 curl -s -l -o setup.py https://gitlab.com/chamod12/getscrn-win10-github-rdp/-/raw/main/setup.py
 curl -s -L -o loop.bat https://gitlab.com/chamod12/loop-win10/-/raw/main/loop.bat
-curl -s -L -o wall.bat https://gitlab.com/chamod12/changewallpaper-win10/-/raw/main/wall.bat
 powershell -Command "Invoke-WebRequest 'https://github.com/chieunhatnang/VM-QuickConfig/releases/download/1.6.1/VMQuickConfig.exe' -OutFile 'C:\Users\Public\Desktop\VMQuickConfig.exe'"
 del /f "C:\Users\Public\Desktop\Epic Games Launcher.lnk"
 del /f "C:\Users\Public\Desktop\Unity Hub.lnk"
